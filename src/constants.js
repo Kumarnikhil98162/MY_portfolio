@@ -215,7 +215,7 @@ export const SkillsInfo = [
         "A modern and responsive personal portfolio built using React and Tailwind CSS. It showcases my skills, projects, education, and experience with smooth scrolling, interactive UI elements, and mobile-friendly design. The site includes sections like About, Skills, Projects, and Contact, helping visitors easily explore my work and connect with me.",
       image: movierecLogo,
       tags: ["React JS", "Tailwind", "HTML", "CSS", "JavaScript"],
-      github: "",
+      github: "https://github.com/Kumarnikhil98162/MY_portfolio",
       // webapp: "https://movie-recommendation-app-jet.vercel.app/",
     },
     {
