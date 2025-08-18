@@ -216,7 +216,7 @@ export const SkillsInfo = [
       image: movierecLogo,
       tags: ["React JS", "Tailwind", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/Kumarnikhil98162/MY_portfolio",
-      // webapp: "https://movie-recommendation-app-jet.vercel.app/",
+      webapp: "https://my-portfolio-vert-three-56.vercel.app/",
     },
     {
       id: 0,
@@ -226,7 +226,7 @@ export const SkillsInfo = [
       image: githubdetLogo,
       tags: ["HTML", "CSS", "JavaScript", "React JS"],
       github: "https://github.com/Kumarnikhil98162/snake_Game",
-      // webapp: "https://githubprofiledetective.netlify.app/",
+      webapp: "https://snake-game-henna-alpha.vercel.app/",
     },
     {
       id: 1,
@@ -235,8 +235,8 @@ export const SkillsInfo = [
         "A full-stack web application built using the MERN stack that allows users to generate and share AI-generated images. The app integrates with a free AI image generation API and uses Cloudinary for image hosting. Users can input prompts to create unique images, explore community-generated content, and post their own creations.",
       image: csprepLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/Kumarnikhil98162/image_Generator",
-      // webapp: "https://csprep.netlify.app/",
+      github: "https://github.com/Kumarnikhil98162/AI_image_Generator",
+      webapp: "https://ai-image-generator-virid-eta.vercel.app/",
     },
    
     // {
